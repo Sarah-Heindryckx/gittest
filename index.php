@@ -16,5 +16,7 @@ and open the template in the editor.
         ?>
         <div><img src="img/img.jpg" >
         dit is een verandering aan de html pgina</div>
+        
+        <div>verandering in een branch</div>
     </body>
 </html>
