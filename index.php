@@ -14,6 +14,7 @@ and open the template in the editor.
         <?php
         echo "hello";
         ?>
-        <div><img src="img/img.jpg" ></div>
+        <div><img src="img/img.jpg" >
+        dit is een verandering aan de html pgina</div>
     </body>
 </html>
