@@ -15,6 +15,7 @@ and open the template in the editor.
         echo "hello";
         ?>
         <div><img src="img/img.jpg" >
-        dit is een verandering aan de html pgina</div>
+        dit is een verandering aan de html pagina, voor de tweede keer</div>
+       
     </body>
 </html>
